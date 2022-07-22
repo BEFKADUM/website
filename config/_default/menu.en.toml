@@ -1,13 +1,13 @@
 [[main]]
-name = "Get Help"
+name = "እርዳታ ያግኙ" 
 weight = 20
 url = "https://community.letsencrypt.org/"
 [[main]]
-name = "Donate"
+name = "ይለገሱ"
 weight = 30
 identifier = "donate"
 [[main]]
-name = "About Us"
+name = "ስለ እኛ "
 weight = 40
 identifier = "about"
 [[main]]
@@ -17,19 +17,19 @@ identifier = "isrg"
 parent = "about"
 url = "https://www.abetterinternet.org/about/"
 [[main]]
-name = "Service Status"
+name = "የአገልግሎት ሁኔታ"
 weight = 60
 identifier = "status"
 parent = "about"
 url = "https://letsencrypt.status.io/"
 [[main]]
-name = "Careers"
+name = "ክፍት የስራ ቦታ"
 weight = 80
 identifier = "careers"
 parent = "about"
 url = "https://www.abetterinternet.org/careers/"
 [[main]]
-name = "Become a Sponsor"
+name = "ስፖንሰር ይሁኑ"
 weight = 40
 identifier = "become-a-sponsor"
 parent = "donate"
